@@ -1,0 +1,50 @@
+#book-search {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#button {
+  width: 300px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+.item-listing {
+  display: block;
+  margin-bottom: 30px;
+  border: 3px solid black;
+  padding: 30px;
+}
+
+.no-results {
+  text-align: center;
+}
+
+.page-container {
+  margin: 100px;
+}
+
+#page-title {
+  text-align: center;
+}
+
+#results {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#search {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.search-bar {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
